@@ -1,0 +1,41 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.main {
+    text-align: center;
+    background-color: rgb(164, 191, 164);
+    padding: 8px 10px;
+    color: white;
+    background-image: url("./Keto.jpg");
+    border: none;
+}
+.title {
+    font-style: italic;
+}
+.description {
+    font-style: italic;
+}
+
+.btn {
+    color: White;
+    background-color: rgb(117, 169, 206);
+}
+.second {
+    background-color: #BADCCD;
+    border: none;
+}
+.third {
+    background-color: beige;
+    display: flex;
+    justify-content: space-around;
+    margin-right: auto;
+    margin-left: auto;
+}
+.contact-image {
+    width: 100px;
+    text-align: right
+}
+.contact-us {
+    display: block;
+}
